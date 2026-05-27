@@ -2,6 +2,15 @@
 
 Este projeto usa o dataset **UNODC – Intentional Homicide Victims** para analisar homicídios por país e gerar **previsões para 2023–2026** usando **Regressão Linear**.
 
+## Participantes
+
+- José Ericson Silveira Teófilo
+- Igor da Silva Pierre
+- Glória Maria Mesquita Furtado
+- Pedro Carolino Neto
+- Jeferson Rodrigo Silva de Mesquita
+- Antonio Lucas Damasceno Melo
+
 Você tem duas formas de explorar o trabalho:
 
 - `AP01_Homicidios_COMPLETO.ipynb`: notebook do Google Colab com a análise completa (exploração dos dados + regressões).
